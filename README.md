@@ -120,3 +120,12 @@ O arquivo `backend/estoque.db` contém todos os dados. Faça backup copiando ess
 
 ### Usuários
 ![Usuários](./docs/usuarios%20.png)
+
+## 🌐 Demo online
+
+Acesse o sistema funcionando em:
+**[https://estoque-sistema-production-0a42.up.railway.app](https://estoque-sistema-production-0a42.up.railway.app)**
+
+> Login de demonstração:
+> - **Usuário:** demonstração@admin.com
+> - **Senha:** admin123

@@ -11,5 +11,10 @@ export default defineConfig({
         changeOrigin: true,
       }
     }
+  },
+  preview: {
+    port: 3000,
+    host: true,
+    allowedHosts: ['estoque-sistema-production-0a42.up.railway.app']
   }
 })

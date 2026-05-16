@@ -97,3 +97,26 @@ estoque-sistema/
 ## Backup do banco de dados
 
 O arquivo `backend/estoque.db` contém todos os dados. Faça backup copiando esse arquivo regularmente.
+
+## Screenshots
+
+### Login
+![Login](./docs/pagina%20de%20login%20.png)
+
+### Dashboard
+![Dashboard](./docs/pagina%20de%20Dashboard%20.png)
+
+### Saída de Mercadoria
+![Saída](./docs/saida%20de%20mercadoria%20.png)
+
+### Histórico
+![Histórico](./docs/historicos%20.png)
+
+### Relatórios
+![Relatórios](./docs/relatorios%20.png)
+
+### Leitor QR
+![Leitor QR](./docs/leitor%20qr%20.png)
+
+### Usuários
+![Usuários](./docs/usuarios%20.png)
